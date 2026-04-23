@@ -13,25 +13,7 @@ I focus on clean code, efficient architecture, and delivering complete end-to-en
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="left">🌐 Connect with Me</h3>
 
-<p align="left">
-<a href="https://linkedin.com/in/md-zahid-bb4819376" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://fb.com/rxt-zahid hossain" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-<a href="https://codeforces.com/profile/tiny_bird" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
-</a>
-<a href="https://www.leetcode.com/rxtzahid" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-<a href="https://github.com/rxtzahid" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-</a>
-</p>
 
 <h3 align="left">📍 About Me</h3>
 
